@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning complex animations using only CSS.
 - 💞️ I’m looking to collaborate on any project that I can learn something knew and it's around building something beatiful and useful.
 - 📫 How to reach me? 
-    https://brunobarros.dev/
-    https://www.brunobarros.online/
-    IG: @talvezobruno
+- https://brunobarros.dev/
+- https://www.brunobarros.online/
+- brunobarros@ideias.dev
+- IG: @talvezobruno
 
 <!---
 bobarros/bobarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
