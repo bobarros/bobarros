@@ -13,8 +13,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** ReGex \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.** Typescript (finally 🙌) 
 
-- 🌱 I’m currently learning complex animations using only CSS.
-- 💞️ I’m looking to collaborate on any project that I can learn something new and it's around building something beautiful and useful.
+- 🌱 I’m currently building my public git repo while working on some side jobs. Wish me luck!
+- 💞️ I’m always looking to collaborate on any project that I can learn something new and it's around building something beautiful and useful.
 - 📫 How to reach me? 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** https://brunobarros.dev/ \
