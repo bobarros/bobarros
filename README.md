@@ -18,10 +18,9 @@ ____________________
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** ReGex \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4.** Typescript (finally 🙌) 
 __________
-### 🌱 What I'm doing now?
+### 🌱 What am I doing now?
 
- I’m currently building my public git repo while working on some side jobs. Wish me luck!
- I’m always looking to collaborate on any project that I can learn something new and it's around building something beautiful and useful.
+ I’m currently building my public git repo while working on some side jobs. Wish me luck! 
 _________
 ### 📫 How to reach me? 
 
