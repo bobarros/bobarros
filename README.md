@@ -2,9 +2,17 @@
 
 
 <img src="https://brunobarros.dev/img/favicon.png" alt="Bruno's Logo">
+<p align="center">
+  <a href="https://brunobarros.dev">
+    <img alt="Bruno's Logo" src="https://brunobarros.dev/img/favicon.png" width="128" />
+  </a>
+</p> 
+<h2 align="center">👋 Hi! I'm Bruno Barros</h2>
+<p align="center">A Web Developer</p>
 
-### 👋 Hi, I’m Bruno Barros.
-And I’m specialized in building great Jamstack websites. For that, most of the time, I'm using:
+__________________
+
+I’m specialized in building great Jamstack websites. For that, most of the time, I'm using:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** Next.js \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Strapi \
