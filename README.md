@@ -21,6 +21,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** https://www.brunobarros.online/ \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** brunobarros@ideias.dev 
 
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobarros)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 bobarros/bobarros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
