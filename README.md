@@ -3,7 +3,7 @@
     <img alt="Bruno's Logo" src="https://brunobarros.dev/img/favicon.png" width="128" />
   </a>
 </p> 
-<h2 align="center">👋 Hi! I'm Bruno Barros</h2>
+<h3 align="center">👋 Hi! I'm Bruno Barros</h2>
 <p align="center">A Web Developer</p>
 
 __________________
