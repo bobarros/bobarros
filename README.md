@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** https://www.brunobarros.online/ \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3.** brunobarros@ideias.dev 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobarros&count_private=true)](https://github.com/anuraghazra/github-readme-stats)\
 Thanks to [@anuraghazra](https://github.com/anuraghazra) for the stats
 
 <!---
