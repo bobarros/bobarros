@@ -1,7 +1,3 @@
-
-
-
-<img src="https://brunobarros.dev/img/favicon.png" alt="Bruno's Logo">
 <p align="center">
   <a href="https://brunobarros.dev">
     <img alt="Bruno's Logo" src="https://brunobarros.dev/img/favicon.png" width="128" />
