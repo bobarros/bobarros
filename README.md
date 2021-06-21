@@ -8,7 +8,7 @@
 
 __________________
 
-I’m specialized in building great Next.js websites. For that, most of the time, I'm using:
+I’m specialized in building great Next.js websites. For that, most of the time, my tools are:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.** React \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.** Typescript  \
