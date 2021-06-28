@@ -21,7 +21,7 @@ I’m specialized in building great Next.js websites. For that, most of the time
 __________
 ### 🌱 What am I doing now?
 
- I’m currently building my public git repo while working on some side jobs.
+Working as a Freelancer while exploring Gastby and Tailwind in my free time. Enjoying the former and still not convinced by the latter.
 _________
 ### 📫 How to reach me? 
 
