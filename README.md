@@ -21,7 +21,8 @@ I’m specialized in building great Next.js websites. For that, most of the time
 __________
 ### 🌱 What am I doing now?
 
-Working as a Freelancer while exploring Gastby and Tailwind in my free time. Enjoying the former and still not convinced by the latter.
+Getting ready for a new mission and learning Angular. No time to waste, so Gatsby and Tailwind will have to wait!
+
 _________
 ### 📫 How to reach me? 
 
