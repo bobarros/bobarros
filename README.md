@@ -21,7 +21,7 @@ I’m specialized in building great Next.js websites. For that, most of the time
 __________
 ### 🌱 What am I doing now?
 
-Getting ready for a new mission and learning Angular. No time to waste, so Gatsby and Tailwind will have to wait!
+Onboarding on my new mission!
 
 _________
 ### 📫 How to reach me? 
