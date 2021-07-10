@@ -21,7 +21,7 @@ I’m specialized in building great Next.js websites. For that, most of the time
 __________
 ### 🌱 What am I doing now?
 
-Onboarding on my new mission!
+I'm finally and happily working full-time as a frontend developer!
 
 _________
 ### 📫 How to reach me? 
